@@ -1,0 +1,3 @@
+FROM centos:centos7
+
+ENV NODE_VERSION 12.22.10
